@@ -3,3 +3,4 @@ app/ignored/
 *.py[cdo]
 app/**/*.log
 !app/main.log
+venv/
